@@ -1,0 +1,14 @@
+C:\Users\thera\Desktop\Aire Logic\BugTrackerApi\bin\Debug\netcoreapp2.1\BugTrackerApi.deps.json
+C:\Users\thera\Desktop\Aire Logic\BugTrackerApi\bin\Debug\netcoreapp2.1\BugTrackerApi.runtimeconfig.json
+C:\Users\thera\Desktop\Aire Logic\BugTrackerApi\bin\Debug\netcoreapp2.1\BugTrackerApi.runtimeconfig.dev.json
+C:\Users\thera\Desktop\Aire Logic\BugTrackerApi\bin\Debug\netcoreapp2.1\BugTrackerApi.dll
+C:\Users\thera\Desktop\Aire Logic\BugTrackerApi\bin\Debug\netcoreapp2.1\BugTrackerApi.pdb
+C:\Users\thera\Desktop\Aire Logic\BugTrackerApi\obj\Debug\netcoreapp2.1\BugTrackerApi.csprojAssemblyReference.cache
+C:\Users\thera\Desktop\Aire Logic\BugTrackerApi\obj\Debug\netcoreapp2.1\BugTrackerApi.csproj.CoreCompileInputs.cache
+C:\Users\thera\Desktop\Aire Logic\BugTrackerApi\obj\Debug\netcoreapp2.1\BugTrackerApi.RazorAssemblyInfo.cache
+C:\Users\thera\Desktop\Aire Logic\BugTrackerApi\obj\Debug\netcoreapp2.1\BugTrackerApi.RazorAssemblyInfo.cs
+C:\Users\thera\Desktop\Aire Logic\BugTrackerApi\obj\Debug\netcoreapp2.1\BugTrackerApi.AssemblyInfoInputs.cache
+C:\Users\thera\Desktop\Aire Logic\BugTrackerApi\obj\Debug\netcoreapp2.1\BugTrackerApi.AssemblyInfo.cs
+C:\Users\thera\Desktop\Aire Logic\BugTrackerApi\obj\Debug\netcoreapp2.1\BugTrackerApi.RazorTargetAssemblyInfo.cache
+C:\Users\thera\Desktop\Aire Logic\BugTrackerApi\obj\Debug\netcoreapp2.1\BugTrackerApi.dll
+C:\Users\thera\Desktop\Aire Logic\BugTrackerApi\obj\Debug\netcoreapp2.1\BugTrackerApi.pdb
